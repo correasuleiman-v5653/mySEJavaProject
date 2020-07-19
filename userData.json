@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "profilePicture" : "https://placehold.it/90x90",
+            "username" : "czzbandicoot",
+            "gender" : "Male",
+            "age" : "25",
+            "location" : "Burnaby, BC, Canada",
+            "personalityTraits" : ["Extroverted", "Polite", "Tryhard"],
+            "games" : ["Rocket League","Overwatch","Counter-Strike"]
+        },
+        {
+            "profilePicture" : "https://placehold.it/90x90",
+            "username" : "suelen45",
+            "gender" : "Female",
+            "age" : "20",
+            "location" : "Sao Paulo, SP, Brasil",
+            "personalityTraits" : ["Shy", "Laid-back"],
+            "games" : ["League of Legends","VALORANT","Dota 2"]
+        },
+        {
+            "profilePicture" : "https://placehold.it/90x90",
+            "username" : "vertigoAndeleer",
+            "gender" : "Male",
+            "age" : "30",
+            "location" : "New York, NY, United States",
+            "personalityTraits" : ["Aggressive", "Funny"],
+            "games" : ["League of Legends","Call of Duty: Warzone","Apex Legends"]
+        }
+    ]
+}

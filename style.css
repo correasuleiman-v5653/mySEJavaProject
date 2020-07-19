@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+}
+
+span{
+    color: firebrick;
+}
+
+button{
+    font-size: large;
+}
+
+#heart{
+    color: forestgreen;
+}
+
+#topButton{
+    font-size: larger;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#topbar {
+    border-style: solid;
+}
+
+#player-card{
+    border-style: dashed;
+    padding: 1%;
+    font-size: large;
+    background-color: lightyellow;
+}
