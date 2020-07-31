@@ -1,0 +1,77 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    font-size: large;
+}
+
+aside{
+    position: absolute;
+    left: 1%;
+}
+
+#userMessage{
+    position: relative;
+    text-align: right;
+}
+
+#matchMessage{
+    position: relative;
+    text-align: left;
+}
+
+#match{
+    border-style: solid;
+    font-size: 3em;
+}
+
+#match1{
+    border-style: solid;
+    border-color: black;
+    font-size: 3em;
+    background-color: black;
+    color: white;
+}
+
+#chatLog{
+    border-style: solid;
+    position: absolute;
+    left: 12.5%;
+    width: 50%;
+    height: 50%;
+    font-size: large;
+    padding: 0.25%;
+    text-align: left;
+}
+
+#textBox{
+    width: 40%;
+    height: 17%;
+    position: absolute;
+    left: 12.5%;
+    top:75%;
+    font-size: large;
+}
+
+#sendButton{
+    width: 9%;
+    height: 17%;
+    position: absolute;
+    left: 54%;
+    top:75%;
+
+}
+
+#topButton{
+    font-size: larger;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#topbar {
+    border-style: solid;
+}
