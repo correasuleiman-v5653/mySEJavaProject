@@ -1,4 +1,4 @@
-//code for the class main.js
+//code for the main for the Player Card Browsing feature
 $(document).ready(function(){
     
     //Getting the JSON response from the server

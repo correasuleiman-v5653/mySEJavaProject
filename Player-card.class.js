@@ -1,4 +1,4 @@
-//code for Player-card.class.js
+//code for the Player Card class
 class PlayerCard{
     //defining attributes
     _profilePicture = "";

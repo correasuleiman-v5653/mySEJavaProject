@@ -1,4 +1,4 @@
-//function for submitting the account, in other words, creating a class User
+//code for the main account creating class
 function submitAccount(){
     //grabbing values from the page
     let username = document.getElementById("username").value;

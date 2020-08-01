@@ -1,3 +1,4 @@
+//Code for the main class for the Match Chatting feature
 //Creating an example chatHistory
 let chatHistory = new ChatHistory(["Hi, nice to meet you!", "So, what game do you play the most?"],
     ["Nice to meet you too!", "I play League of Legends most of the time, how about you?"]);

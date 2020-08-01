@@ -1,4 +1,4 @@
-//code for User.class.js. This is the closest one from the models drawn on the modeling phase.
+//code for User class. This is the closest one from the models drawn on the modeling phase.
 class User{
     //defining attributes. The constructor here is default
     _username = "";

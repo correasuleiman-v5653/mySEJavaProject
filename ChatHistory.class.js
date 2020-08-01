@@ -1,4 +1,4 @@
-//code for ChatHistory.class.js
+//code for ChatHistory class
 class ChatHistory
 {
     //defining attributes
