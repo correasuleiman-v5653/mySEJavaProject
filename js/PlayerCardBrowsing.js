@@ -2,7 +2,7 @@
 $(document).ready(function(){
     
     //Getting the JSON response from the server
-    $.getJSON("userData.json", null, function(data){
+    $.getJSON("../userData.json", null, function(data){
         let users = data.users;
 
         //Loop - "do this for each user in the userData.json file"
